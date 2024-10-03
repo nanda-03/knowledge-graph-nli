@@ -1,0 +1,14 @@
+pandas
+numpy
+torch
+pytorch_lightning
+transformers
+click
+loguru
+spacy
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric
+torch-optimizer
